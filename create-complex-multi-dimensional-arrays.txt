@@ -1,0 +1,18 @@
+let myNestedArray = [
+  // Only change code below this line
+  [true],
+  [
+    ["deep"],[2]
+  ],
+  [
+    [
+      ["deeper"],["aariz"]
+    ],
+    [
+      [
+        ["deepest"],[true]
+      ]
+    ]
+  ]
+  // Only change code above this line
+];
